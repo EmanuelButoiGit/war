@@ -1,0 +1,3 @@
+﻿  Razboi.cpp
+D:\Proiecte\Projects\Razboi\Razboi\Razboi.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Razboi.vcxproj -> D:\Proiecte\Projects\Razboi\Debug\Razboi.exe
